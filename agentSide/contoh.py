@@ -1,0 +1,1 @@
+print("INI CUMA CONTOH")
