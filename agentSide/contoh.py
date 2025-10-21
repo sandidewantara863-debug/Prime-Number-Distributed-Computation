@@ -1,1 +1,0 @@
-print("INI CUMA CONTOH")
